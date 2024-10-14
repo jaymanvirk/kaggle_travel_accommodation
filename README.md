@@ -13,3 +13,7 @@
    2. Principal Component Analysis
    3. Scaling and PCA
 4. Testing basic classifiers
+
+
+## License
+This project is licensed under the MIT License.
