@@ -14,6 +14,8 @@
    3. Scaling and PCA
 4. Testing basic classifiers
 
+## Notebook
+[travel_accommodation.ipynb](travel_accommodation.ipynb)
 
 ## License
 This project is licensed under the MIT License.
